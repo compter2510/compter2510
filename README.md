@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @compter2510
+- 👀 I’m interested in computer mechanics, technologic stuffs and ethical hacking.
+- 🌱 I’m currently learning Unix-based shells
+- 💞️ I’m looking to collaborate on (idrk just gotta leave this blank)
+- 📫 How to reach me (same as above)
